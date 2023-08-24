@@ -2063,6 +2063,7 @@ input, select, textarea {
 
 		.image.thumb {
 			text-align: center;
+      
 		}
 
 			.image.thumb:after {
@@ -2127,6 +2128,7 @@ input, select, textarea {
 			display: block;
 			margin: 0 0 2em 0;
 			width: 100%;
+      box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
 		}
 
 			.image.fit img {
